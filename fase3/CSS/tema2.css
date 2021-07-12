@@ -82,6 +82,7 @@ body{
     margin-left: 120px;
     margin-right:120px;
 }
+
 .section img{
     display: flex;
     flex-direction: column-reverse;

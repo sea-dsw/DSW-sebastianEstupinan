@@ -85,11 +85,11 @@ body{
 }
 .section img{
     display: flex;
-    flex-direction: column-reverse;
-    height: 30%;
-    width: 30%;
-    margin-top: 20px;
-    margin-left: 35%;
+    flex-direction: column;
+    height: 55%;
+    width: 45%;
+    margin-top: 10px;
+    margin-left: 28%;
 }
 .section ol{
     display: flex;
@@ -102,6 +102,11 @@ body{
     flex-direction: column;
 }
 .section h6{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.section h3{
     display: flex;
     text-align: center;
     flex-direction: column;

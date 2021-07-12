@@ -67,7 +67,7 @@ body{
     margin-top: 2px;
     margin-right: 5px;
     width: 70%;
-    height: 600px;
+    height: 800px;
     background-color: #A3ADCB;
    
    
@@ -105,15 +105,15 @@ blockquote{
    
     
 }
-
 .footer{
    
     flex-direction: row;
     display: flex;
     background-color: #191970;
     height: 100px;
-}   
+   
 
+}
 .footer p{
     color: white;
     display: flex;
