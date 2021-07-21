@@ -67,32 +67,17 @@ body{
     margin-top: 2px;
     margin-right: 5px;
     width: 70%;
-    height: 1000px;
-    background-color: #A3ADCB;
-   
+    height: 80%;
   
+  
+   
     
    
 }
-.section h1{
-    text-align: center;
-}
-.section p{
-    display: flex;
-    margin-left: 120px;
-    margin-right: 120px;
-}
-.section p img{
-    display: flex;
-    flex-direction: column-reverse;
-    height: 40%;
-    width: 60%;
-    margin-top: 50px;
-    margin-left: 20%;
-}
+
 blockquote{
   flex-direction: row;
-   margin-left: 35%;
+   margin-left: 25%;
    font-size: 9px;
 
 }
@@ -121,5 +106,6 @@ blockquote{
     margin-top: 40px;
     font-size: 12px;
 }
+
 
 
